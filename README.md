@@ -2,4 +2,4 @@
 ------------
 Let the app know your lucky number and date of birth and let's see if its lucky.
 
- * Try the app [here]()
+ * Try the app [here](https://is-your-birthdayy-luckyy.netlify.app/)
